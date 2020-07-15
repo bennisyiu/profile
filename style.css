@@ -48,16 +48,16 @@ body {
   font-size: 30px;
 }
 
-.video {
-  width: 400px;
+.gif {
+  width: 300px;
   height: 500px;
   margin: 0 auto;
-  display: block;
 }
 
 .cat_photos {
   width: 700px;
   height: 400px;
+  margin: 0 auto;
   object-fit: cover;
 }
 
